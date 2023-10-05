@@ -647,7 +647,6 @@ button.normal:hover{
 #sm-banner{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
 }
 #sm-banner .banner-box{
     display: flex;
@@ -681,6 +680,7 @@ button.normal:hover{
 #sm-banner .second-box{
     background-image: url(images/products/sale4.jpg);
     align-items: flex-end;
+    margin-right:20px;
 }
 button.sale{
     font-size: 14px;
